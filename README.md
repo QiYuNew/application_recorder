@@ -1,4 +1,4 @@
-## For English User Manual please step to [Wiki](https://github.com/QiYuNew/application_recorder/wiki) page.
+## For English User Manual Please Step to [Wiki](https://github.com/QiYuNew/application_recorder/wiki) Page.
 ---
 # 简历投递记录器
 ## 1. 将公司职位、投递方式、时间等信息插入sheet1，免去找空行的烦恼
