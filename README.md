@@ -1,3 +1,4 @@
+# For English User Manual please step to Wiki page.
 # 简历投递记录器
 ## 1. 将公司职位、投递方式、时间等信息插入sheet1，免去找空行的烦恼
 ## 2. 无按名称排序功能，如需排序请使用Excel自带功能，注意列的范围
